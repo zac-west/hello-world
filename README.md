@@ -18,9 +18,9 @@ Here is the [link] (https://guides.github.com/features/mastering-markdown/) to t
 ### 3rd tier of title
 #### you get the point
 > Zac sucks at programming
-> - Kyle West
+> ~ Kyle West
 
-@zac-west
+@kyle-west
 
 [x] complete
 [ ] incomplete
